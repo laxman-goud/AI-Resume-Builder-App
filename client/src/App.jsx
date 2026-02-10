@@ -11,6 +11,7 @@ import Preview from './pages/Preview'
 
 import api from './configs/api.js'
 import { login, setLoading } from './features/authSlice.js'
+import NotFound from './pages/NotFound.jsx'
 
 /**
  * Root application component
@@ -64,6 +65,9 @@ const App = () => {
         </Route>
 
         <Route path="view/:resumeId" element={<Preview />} />
+
+        {/* Catch all unknown routes */}
+        <Route path="*" element={<NotFound />} />
       </Routes>
     </>
   )
