@@ -1,24 +1,24 @@
-# 📄 AI Resume Builder App
+# AI Resume Builder App
 
 An **AI-powered Resume Builder web application** that helps users create, edit, and manage professional resumes with modern templates, AI assistance, and live project links — all in one place.
 
 ---
 
-## ✨ Features
+## Features
 
-* 🧠 **AI-assisted resume enhancement**
-* 📝 Create, edit, and delete resumes
-* 📂 Upload existing resume (PDF → text)
-* 🎨 Multiple professional resume templates
-* 🔗 Add **Live Demo** and **Source Code** links to projects
-* 📱 Fully responsive UI
-* 🔐 JWT-based authentication
-* ☁️ Image upload support (ImageKit)
-* 🖨️ Resume-ready layout for export/print
+*  **AI-assisted resume enhancement**
+*  Create, edit, and delete resumes
+*  Upload existing resume (PDF → text)
+*  Multiple professional resume templates
+*  Add **Live Demo** and **Source Code** links to projects
+*  Fully responsive UI
+*  JWT-based authentication
+*  Image upload support (ImageKit)
+*  Resume-ready layout for export/print
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend (`client/`)
 
@@ -115,7 +115,7 @@ npm run dev
 
 ---
 
-## 🧩 Resume Templates Included
+##  Resume Templates Included
 
 * Classic Template
 * Modern Template
@@ -146,7 +146,7 @@ Links automatically:
 
 ---
 
-## 🧪 Environment Files
+## Environment Files
 
 Both frontend and backend include:
 
@@ -175,7 +175,7 @@ See [`LICENSE.md`](./LICENSE.md) for details.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Laxman Goud**
 GitHub: [@laxman-goud](https://github.com/laxman-goud)
